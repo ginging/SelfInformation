@@ -1,0 +1,9 @@
+{
+  "build": {
+    "type": "maven",
+    "goal": "war"
+  },
+  "deploy": {
+    "goal": "war"
+  }
+}
